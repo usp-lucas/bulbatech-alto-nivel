@@ -1,7 +1,7 @@
 import numpy as np
 import cv2 as cv
 # Carrega um video pelo caminho especificado
-cap = cv.VideoCapture('/home/lucas/Estudos/Ferias_Julho_2026/03_Projects/BulbaTech/bulbatech-alto-nivel/media/pratica4_ex1_LUCASALMEIDADESOUZA_SIMULACAO(1).mp4')
+cap = cv.VideoCapture('/home/lucas/Estudos/Vault_Obsidian/04_Entregaveis/BulbaTech/media/pratica4_ex1_LUCASALMEIDADESOUZA_SIMULACAO(1).mp4')
 
 # Checa se o vídeo foi aberto corretamente
 if not cap.isOpened():
